@@ -1,0 +1,104 @@
+body {
+    background-color: #1e5583;
+}
+
+#paragrafo01 {
+    font-size: 1.5em;
+    padding-left: 30px;
+    padding-top: px;
+}
+
+#paragrafo02 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+}
+
+span {
+    background-color: chartreuse;
+}
+
+.format {
+    background-color: darkmagenta;
+    color: forestgreen;
+    font-size: 23px;
+    text-align: end;
+}
+
+abbr:hover {
+    background-color: darkcyan;
+}
+
+#paragrafo06 {
+    border-radius: 50px;
+    border: 5px solid red;
+    color: #FF0000;
+    /* background-color: hsl(10, 100%, 64%); */
+    /* h-hue - matiz*/
+    /*s saturation - saturação*/
+    /*l luminosity- luminosidade*/
+    /*a - alpha - transparency 0 - 1 10 posibilidades */
+    background-image: linear-gradient(to right, #fff000, #fdfdfd);
+    /* background-color: rgba(red, green, blue, alpha); */
+
+}
+
+#paragrafojailson{
+
+    border: 2px solid red;
+
+    font-size: 40px;
+
+    max-width: max-content;
+
+    padding: 20px;
+
+    margin-left: 30px;
+
+}
+
+a{
+
+    text-decoration: none;
+
+}
+
+#link01{
+
+    color:yellow;
+
+    background-color: rgb(80, 184, 48);
+
+    text-decoration: none;
+
+}
+
+#link01:visited{
+
+    color:#7a1369;
+
+    background-color: #7e760a;
+
+    text-decoration: none;
+
+}
+
+#link01:hover{
+
+    color:#915f62;
+
+    background-color: #4d6d44;
+
+    text-decoration: none;
+
+}
+
+#link01:active{
+
+    color:#137a75;
+
+    background-color: #b8b69f;
+
+    text-decoration: none;
+
+}
